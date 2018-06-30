@@ -1,5 +1,10 @@
 # Pixel Art Maker Project
 
+----------------------------------------------------------------------------------------------------------------------
+This is the link to the art pixel maker app <https://josephmawanda.github.io/udacity-studentProject.pixelArtMaker/>
+
+----------------------------------------------------------------------------------------------------------------------
+
 ## Table of Contents
 
 * [Instructions](#instructions)
